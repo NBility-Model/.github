@@ -29,19 +29,19 @@ GitHub Issues is a powerful tool for tracking bugs, change requests, and feature
 1. **Submitting a Bug Report**
 
 * Navigate to the Issues tab.
-* Click on "New Issue" and select the "Bug report" template.
+* Click on "New Issue" e.
 *Provide a descriptive title and detailed information about the bug, including steps to reproduce, expected behavior, and screenshots if applicable.
 
 2. **Requesting a Feature**
 
 * Go to the Issues tab.
-* Click on "New Issue" and select the "Feature request" template.
+* Click on "New Issue".
 * Describe the feature in detail, including the problem it solves and any potential implementation ideas.
 
 3. **Submitting a Change Request**
 
 * Access the Issues tab.
-* Click "New Issue" and select the appropriate template for a change request.
+* Click "New Issue".
 * Provide a clear title and detailed description of the proposed change, including reasons for the change and any potential impacts.
 
 4. **Tracking and Managing Issues**
@@ -95,7 +95,7 @@ Using the planning board helps keep the project organized, ensures transparency,
 ## Branching Strategy for Release Management
 To ensure a stable and efficient release process, NBility-Model follows a branching strategy inspired by the [Stable Mainline Branching Model](https://www.bitsnbites.eu/a-stable-mainline-branching-model-for-git/) for Git. The following diagram illustrates the branching strategy:
 
-![branch_strategie](https://github.com/NBility-Model/.github/blob/Update_CONTRIBUTING.md/images/Branch%20strategy.png)
+![branch_strategie](https://github.com/NBility-Model/.github/blob/main/images/Branch%20strategy.png))
 
 Source diagram: https://www.bitsnbites.eu/a-stable-mainline-branching-model-for-git/
 
