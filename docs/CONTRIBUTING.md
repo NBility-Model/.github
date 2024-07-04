@@ -128,7 +128,7 @@ Source diagram: https://www.bitsnbites.eu/a-stable-mainline-branching-model-for-
 
 * Create a release branch from main.
 * Perform final testing and make any necessary fixes in the release branch.
-* Formal Go from NBEA
+* Formal Go from NB-EA
 * Tag release candidates as needed (vX.Y.0-rc1, vX.Y.0-rc2, etc.).
 
 3. **Release**
