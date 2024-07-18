@@ -14,7 +14,6 @@ The English version of model is currently available in the following formats:
 # Dutch versions of NBility
 The Dutch version of model is currently available in the following formats:
 * [NBility - Model latest version - Dutch - Archi format](https://github.com/NBility-Model/NBility-business-capabilities-Archi) - The model can be viewed [here without the need to install Archi](https://nbility-model.github.io/NBility-business-capabilities-Archi/).
-* [NBility - Model latest version - Dutch - XML format](https://github.com/NBility-Model/NBility-business-capabilities-XML) - The XML file of NBility can be imported into various applications.
 * [NBility - Model latest version - Dutch - PowerPoint format](https://github.com/NBility-Model/NBility-business-capabilities-PPTX)
 
 # Additional information
