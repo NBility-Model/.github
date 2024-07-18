@@ -8,7 +8,7 @@ The NBility model is maintained by the Dutch Distribution System Operators. A Us
 
 # English version of NBility
 The English version of model is currently available in the following formats:
-* [NBility - Model latest version - English - Archi format](https://github.com/NBility-Model/NBility-business-capabilities-Archi-English) - The model can be viewed [here without the need to install Archi](https://nbility-model.github.io/NBility-business-capabilities-Archi-English).
+* [NBility - Model latest version - English - Archi format](https://github.com/NBility-Model/NBility-business-capabilities-Archi) - The model can be viewed [here without the need to install Archi](https://nbility-model.github.io/NBility-business-capabilities-Archi/).
 * [NBility – Model latest version - English - PowerPoint format](https://nbility-model.github.io/NBility-business-capabilities-Archi/?view=id-27932).
 
 # Dutch versions of NBility
