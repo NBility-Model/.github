@@ -1,31 +1,37 @@
 # NBility
-The repos in this github org contains [the NBility Model](https://www.edsn.nl/nbility-model/). 
+Welcome to the NBility repository! This GitHub organization hosts the [the NBility Model](https://www.edsn.nl/nbility-model/). 
 
 # Introduction
-NBility is a capability model for a grid operator. It has been created to simplify working together within the utility sector and with the suppliers/advisors of the grid operators. The NBilty model exists of a capability model, a  related  business object model and a value stream model.  
+NBility is a comprehensive capability model designed for grid operators. It was developed to streamline collaboration within the utility sector and with the suppliers and advisors of grid operators. The NBility model comprises three key components:
 
-The NBility model is maintained by the Dutch Distribution System Operators. A User Group, where users of NBility can exchange experiences and make suggestions for improvement, is being established.
+* A capability model
+* A related business object model
+* A value stream model
 
-# English version of NBility
-The English version of model is currently available in the following formats:
-* [NBility - Model latest version - English - Archi format](https://github.com/NBility-Model/NBility-business-capabilities-Archi) - The model can be viewed [here without the need to install Archi](https://nbility-model.github.io/NBility-business-capabilities-Archi/).
-* [NBility – Model latest version - English - PowerPoint format](https://nbility-model.github.io/NBility-business-capabilities-Archi/?view=id-27932).
+The NBility model is actively maintained by the Dutch Distribution System Operators. Additionally, a User Group is being established to facilitate the exchange of experiences among users and to gather suggestions for future improvements.
 
-# Dutch versions of NBility
-The Dutch version of model is currently available in the following formats:
-* [NBility - Model latest version - Dutch - Archi format](https://github.com/NBility-Model/NBility-business-capabilities-Archi) - The model can be viewed [here without the need to install Archi](https://nbility-model.github.io/NBility-business-capabilities-Archi/).
-* [NBility - Model latest version - Dutch - PowerPoint format](https://github.com/NBility-Model/NBility-business-capabilities-PPTX)
+# Viewing the Model
+You can view the NBility model without needing to install Archi by following this link: [View NBility Model](https://nbility-model.github.io/NBility-business-capabilities-Archi/).
 
-# Additional information
-For further details on the NBility model:
-* A webinar introducing the NBility model was held on September 15, 2021. You can view the recording here: [Webinar NBility September 15, 2021 (YouTube)](https://youtu.be/hpRPoQU_ids) (Dutch only)
+![NBility](https://nbility-model.github.io/NBility-business-capabilities-Archi/id-9cd948eb-3f6c-44c8-a574-c57cc72f6eef/images/id-c3e376cb1f8d48d19d8857e84d833cb9.png)
+
+
+# Editing the Model
+If you’d like to contribute to the LF Energy ArchiMate models, you’ll need to use [Archi](https://www.archimatetool.com/). For more information on how to contribute, please refer to our [CONTRIBUTING.md](https://nbility-model.github.io/CONTRIBUTING/) or check out our [workshops](https://nbility-model.github.io/workshops/)..
+
+# Additional Information
+For more details on the NBility model, please explore the following resources:
+*  [Documentation website](https://nbility-model.github.io/);
+*  [Project website](https://www.edsn.nl/nbility-model/);
+*  [NBility – Model latest version - English - PowerPoint format](https://nbility-model.github.io/NBility-business-capabilities-Archi/?view=id-27932);
+*  [NBility - Model latest version - Dutch - PowerPoint format](https://github.com/NBility-Model/NBility-business-capabilities-PPTX);
+*  Watch the recording of our introductory webinar (held on September 15, 2021): [Webinar NBility September 15, 2021 (YouTube)](https://youtu.be/hpRPoQU_ids) (Dutch only)
 
 # License
-This project is licensed Creative Commons Attribution 4.0 International Public License (CC-BY-4.0) - see [LICENSE](LICENSE) for details.
+This project is licensed under the Creative Commons Attribution 4.0 International Public License (CC-BY-4.0). For more details, see the[LICENSE](LICENSE) file. 
 
 # Contributing
-Please read [CODE_OF_CONDUCT.md](https://github.com/NBility-Model/.github/tree/main/docs/CODE_OF_CONDUCT.md), [CONTRIBUTING.md](https://github.com/NBility-Model/.github/tree/main/docs/CONTRIBUTING.md) and [PROJECT_GOVERNANACE.md](https://github.com/NBility-Model/.github/tree/main/docs/PROJECT_GOVERNANCE.md) for details on the process for submitting pull requests to us.
+We welcome contributions! Please take a moment to review our [CODE_OF_CONDUCT.md](https://github.com/NBility-Model/.github/tree/main/docs/CODE_OF_CONDUCT.md), [CONTRIBUTING.md](https://github.com/NBility-Model/.github/tree/main/docs/CONTRIBUTING.md) and [PROJECT_GOVERNANACE.md](https://github.com/NBility-Model/.github/tree/main/docs/PROJECT_GOVERNANCE.md) documents before submitting a pull request.
 
 # Contact
-Please read [SUPPORT.md](https://github.com/NBility-Model/.github/tree/main/docs/SUPPORT.md) for how to connect and get into contact with the NBility project
-
+If you need assistance or want to get in touch with the NBility project team, please refer to our [SUPPORT Guidelines](https://github.com/NBility-Model/.github/tree/main/docs/SUPPORT.md).
