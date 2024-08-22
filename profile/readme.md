@@ -23,6 +23,8 @@ If you’d like to contribute to the LF Energy ArchiMate models, you’ll need t
 For more details on the NBility model, please explore the following resources:
 *  [Documentation website](https://nbility-model.github.io/);
 *  [Project website](https://www.edsn.nl/nbility-model/);
+*  [NBility – Model latest version - English - PowerPoint format](https://nbility-model.github.io/NBility-business-capabilities-Archi/?view=id-27932);
+*  [NBility - Model latest version - Dutch - PowerPoint format](https://github.com/NBility-Model/NBility-business-capabilities-PPTX);
 *  Watch the recording of our introductory webinar (held on September 15, 2021): [Webinar NBility September 15, 2021 (YouTube)](https://youtu.be/hpRPoQU_ids) (Dutch only)
 
 # License
