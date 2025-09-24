@@ -17,7 +17,7 @@ You can view the NBility model without needing to install Archi by following thi
 
 
 # Editing the Model
-If you’d like to contribute to the LF Energy ArchiMate models, you’ll need to use [Archi](https://www.archimatetool.com/). For more information on how to contribute, please refer to our [CONTRIBUTING.md](https://nbility-model.github.io/CONTRIBUTING/) or check out our [workshops](https://nbility-model.github.io/workshops/)..
+If you’d like to contribute to the LF Energy ArchiMate models, you’ll need to use [Archi](https://www.archimatetool.com/). For more information on how to contribute, please refer to our [CONTRIBUTING.md](https://nbility-model.github.io/1.%20Contribution/CONTRIBUTING/) or check out our [workshops](https://nbility-model.github.io/2.%20User%20manual%20and%20workshops/).
 
 # Additional Information
 For more details on the NBility model, please explore the following resources:
@@ -31,7 +31,7 @@ For more details on the NBility model, please explore the following resources:
 This project is licensed under the Creative Commons Attribution 4.0 International Public License (CC-BY-4.0). For more details, see the[LICENSE](LICENSE) file. 
 
 # Contributing
-We welcome contributions! Please take a moment to review our [CODE_OF_CONDUCT.md](https://github.com/NBility-Model/.github/tree/main/docs/CODE_OF_CONDUCT.md), [CONTRIBUTING.md](https://github.com/NBility-Model/.github/tree/main/docs/CONTRIBUTING.md) and [PROJECT_GOVERNANACE.md](https://github.com/NBility-Model/.github/tree/main/docs/PROJECT_GOVERNANCE.md) documents before submitting a pull request.
+We welcome contributions! Please take a moment to review our [CODE_OF_CONDUCT.md](https://nbility-model.github.io/1.%20Contribution/CODE_OF_CONDUCT/), [CONTRIBUTING.md](https://nbility-model.github.io/1.%20Contribution/CONTRIBUTING/) and [PROJECT_GOVERNANACE.md](https://nbility-model.github.io/1.%20Contribution/PROJECT_GOVERNANCE/) documents before submitting a pull request.
 
 # Contact
-If you need assistance or want to get in touch with the NBility project team, please refer to our [SUPPORT Guidelines](https://github.com/NBility-Model/.github/tree/main/docs/SUPPORT.md).
+If you need assistance or want to get in touch with the NBility project team, please refer to our [SUPPORT Guidelines](https://nbility-model.github.io/3.%20Release%20and%20support/SUPPORT/).
