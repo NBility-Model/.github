@@ -28,7 +28,7 @@ For more details on the NBility model, please explore the following resources:
 *  Watch the recording of our introductory webinar (held on September, 2024): [Webinar NBility September, 2024 (YouTube)](https://www.youtube.com/watch?v=Vv1gV4KiHbY) (English)
 
 # License
-This project is licensed under the Creative Commons Attribution 4.0 International Public License (CC-BY-4.0). For more details, see the[LICENSE](LICENSE) file. 
+This project is licensed under the Creative Commons Attribution 4.0 International Public License (CC-BY-4.0). For more details, see the [LICENSE](https://nbility-model.github.io/1.%20Contribution/LICENSE/). 
 
 # Contributing
 We welcome contributions! Please take a moment to review our [CODE_OF_CONDUCT.md](https://nbility-model.github.io/1.%20Contribution/CODE_OF_CONDUCT/), [CONTRIBUTING.md](https://nbility-model.github.io/1.%20Contribution/CONTRIBUTING/) and [PROJECT_GOVERNANACE.md](https://nbility-model.github.io/1.%20Contribution/PROJECT_GOVERNANCE/) documents before submitting a pull request.
