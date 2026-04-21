@@ -11,27 +11,27 @@ NBility is a comprehensive capability model designed for grid operators. It was 
 The NBility model is actively maintained by the Dutch Distribution System Operators. Additionally, a User Group is being established to facilitate the exchange of experiences among users and to gather suggestions for future improvements.
 
 # Viewing the Model
-You can view the NBility model without needing to install Archi by following this link: [View NBility Model (Latest release)](https://nbility-model.github.io/NBility-business-capabilities-Archi/).
+You can view the NBility model without needing to install Archi by following this link: [View NBility Model (Latest release)](https://nbility.netbeheernederland.nl/model/).
 
-![NBility](https://nbility-model.github.io/NBility-business-capabilities-Archi/id-9cd948eb-3f6c-44c8-a574-c57cc72f6eef/images/id-c3e376cb1f8d48d19d8857e84d833cb9.png)
+![NBility](https://nbility.netbeheernederland.nl/model/id-9cd948eb-3f6c-44c8-a574-c57cc72f6eef/images/id-c3e376cb1f8d48d19d8857e84d833cb9.png)
 
 
 # Editing the Model
-If you’d like to contribute to the LF Energy ArchiMate models, you’ll need to use [Archi](https://www.archimatetool.com/). For more information on how to contribute, please refer to our [CONTRIBUTING.md](https://nbility-model.github.io/1.%20Contribution/CONTRIBUTING/) or check out our [workshops](https://nbility-model.github.io/2.%20User%20manual%20and%20workshops/).
+If you’d like to contribute to the LF Energy ArchiMate models, you’ll need to use [Archi](https://www.archimatetool.com/). For more information on how to contribute, please refer to our [CONTRIBUTING.md](https://nbility.netbeheernederland.nl/1.%20Contribution/CONTRIBUTING/) or check out our [workshops](https://nbility.netbeheernederland.nl/2.%20User%20manual%20and%20workshops/).
 
 # Additional Information
 For more details on the NBility model, please explore the following resources:
-*  [Documentation website](https://nbility-model.github.io/);
+*  [Documentation website](https://nbility.netbeheernederland.nl/);
 *  [Project website](https://www.edsn.nl/nbility-model/);
-*  [NBility – Model latest release - English & Dutch - Archi format](https://nbility-model.github.io/NBility-business-capabilities-Archi/?view=id-27932);
+*  [NBility – Model latest release - English & Dutch - Archi format](https://nbility.netbeheernederland.nl/NBility-business-capabilities-Archi/?view=id-27932);
 *  [NBility - Model latest release - Dutch - PowerPoint format](https://github.com/NBility-Model/NBility-business-capabilities-PPTX);
 *  Watch the recording of our introductory webinar (held on September, 2024): [Webinar NBility September, 2024 (YouTube)](https://www.youtube.com/watch?v=Vv1gV4KiHbY) (English)
 
 # License
-This project is licensed under the Creative Commons Attribution 4.0 International Public License (CC-BY-4.0). For more details, see the[LICENSE](LICENSE) file. 
+This project is licensed under the Creative Commons Attribution 4.0 International Public License (CC-BY-4.0). For more details, see the [LICENSE](https://nbility.netbeheernederland.nl/1.%20Contribution/LICENSE_SUMMARY.md/). 
 
 # Contributing
-We welcome contributions! Please take a moment to review our [CODE_OF_CONDUCT.md](https://nbility-model.github.io/1.%20Contribution/CODE_OF_CONDUCT/), [CONTRIBUTING.md](https://nbility-model.github.io/1.%20Contribution/CONTRIBUTING/) and [PROJECT_GOVERNANACE.md](https://nbility-model.github.io/1.%20Contribution/PROJECT_GOVERNANCE/) documents before submitting a pull request.
+We welcome contributions! Please take a moment to review our [CODE_OF_CONDUCT.md](https://nbility.netbeheernederland.nl/1.%20Contribution/CODE_OF_CONDUCT/), [CONTRIBUTING.md](https://nbility.netbeheernederland.nl/1.%20Contribution/CONTRIBUTING/) and [PROJECT_GOVERNANACE.md](https://nbility.netbeheernederland.nl/1.%20Contribution/PROJECT_GOVERNANCE/) documents before submitting a pull request.
 
 # Contact
-If you need assistance or want to get in touch with the NBility project team, please refer to our [SUPPORT Guidelines](https://nbility-model.github.io/3.%20Release%20and%20support/SUPPORT/).
+If you need assistance or want to get in touch with the NBility project team, please refer to our [SUPPORT Guidelines](https://nbility.netbeheernederland.nl/3.%20Release%20and%20support/SUPPORT/).
