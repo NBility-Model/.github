@@ -13,9 +13,6 @@ The NBility model is actively maintained by the Dutch Distribution System Operat
 # Viewing the Model
 You can view the NBility model without needing to install Archi by following this link: [View NBility Model (Latest release)](https://nbility.netbeheernederland.nl/model/).
 
-![NBility](https://nbility.netbeheernederland.nl/model/?view=id-5fd04e9c0a4f4c61834f2bb191b3f727)
-
-
 # Editing the Model
 If you’d like to contribute to the LF Energy ArchiMate models, you’ll need to use [Archi](https://www.archimatetool.com/). For more information on how to contribute, please refer to our [CONTRIBUTING.md](https://nbility.netbeheernederland.nl/1.%20Contribution/CONTRIBUTING/) or check out our [workshops](https://nbility.netbeheernederland.nl/2.%20User%20manual%20and%20workshops/).
 
