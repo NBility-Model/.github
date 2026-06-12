@@ -13,7 +13,7 @@ The NBility model is actively maintained by the Dutch Distribution System Operat
 # Viewing the Model
 You can view the NBility model without needing to install Archi by following this link: [View NBility Model (Latest release)](https://nbility.netbeheernederland.nl/model/).
 
-![NBility](https://nbility.netbeheernederland.nl/model/id-9cd948eb-3f6c-44c8-a574-c57cc72f6eef/images/id-c3e376cb1f8d48d19d8857e84d833cb9.png)
+![NBility](https://nbility.netbeheernederland.nl/model/?view=id-5fd04e9c0a4f4c61834f2bb191b3f727)
 
 
 # Editing the Model
